@@ -2,22 +2,21 @@ Arduino code: LED Shirt 6x6 matrix
 =========
 Varun Madahar (varunmadahar@gmail.com)
 
-Introduction:
+Introduction
 ------------
-This is a project I worked on using Arduino Uno and then finally on a Lilypad to create a
-6x6 LED matrix.  This work was done for a friend of mine on his wedding.  The code is
-written to work with the Arduino SDK and works with Arduino Uno or Lilypad.  I have provided
-enough information to port this code over to any Arduino based boards.
 
-Hardware:
-------------
-I used basic NPN transistors on each column and row for the LED's and had a separate 9V battery
-powering the LEDs and another AAA battery powering the Lilypad.  Since this entire project
-was done on a shirt I used conductive thread to stich the entire shirt and used a small bread board 
-for actually putting the LED's in a 6x6 matrix.
+This is a project I worked on using Arduino Uno and then finally on a
+Lilypad to create a 6x6 LED matrix.  This work was done for a friend of
+mine on his wedding.  The code is written to work with the Arduino SDK
+and works with Arduino Uno or Lilypad.  I have provided enough information
+to port this code over to any Arduino based boards.
 
-TODO:
-------------
-I will provide pictures of the finished product later on and also a list of all the hardware used to build 
-the shirt.
+I used basic NPN transistors on each column and row for the LED's and had
+a separate 9V battery powering the LEDs and another AAA battery powering
+the Lilypad.  Since this entire project was done on a shirt I used conductive
+thread to stich the entire shirt and used a small bread board for actually
+putting the LED's in a 6x6 matrix.
+
+I will provide pictures of the finished product later on and also a list of
+all the hardware used to build the shirt.
 
