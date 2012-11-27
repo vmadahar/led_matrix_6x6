@@ -1,3 +1,5 @@
+/* Main program */
+
 #include "mapping.h"
 
 
