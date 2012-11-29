@@ -1,9 +1,9 @@
 Arduino code: LED Shirt 6x6 matrix
-=========
-Varun Madahar (varunmadahar@gmail.com)
+------------------------------------
+Author: Varun Madahar
 
 Introduction
-------------
+~~~~~~~~~~~~~~
 
 This is a project I worked on using Arduino Uno and then finally on a
 Lilypad to create a 6x6 LED matrix.  This work was done for a friend of
