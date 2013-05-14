@@ -214,7 +214,10 @@ led_pattern all_off[] = {
 #define R6 7
 #endif
 
-
+//For some odd reason under Debian 64-bit squeeze I can't compile
+//if setting analog pin A3.  I have to resort to setting the pin as
+//17 for the lilypad atmega 328
+#define A3 17
 #define SWITCH A3
 
 #define MAX_ROW 6
